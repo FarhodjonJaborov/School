@@ -80,3 +80,6 @@ if st.button('Получить рекомендации'):
     st.write(study_materials if study_materials else "Не найдено подходящих учебных материалов.")
     st.subheader('Профессии:')
     st.write(professions if professions else "Не найдено подходящих профессий.")
+
+
+print("hello world")
